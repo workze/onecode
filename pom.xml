@@ -8,7 +8,7 @@
     <modules>
         <module>onecode-core</module>
         <module>onecode-exception</module>
-        <module>onecode-json-helper</module>
+        <module>onecode-fastjson-helper</module>
     </modules>
 
     <packaging>pom</packaging>
